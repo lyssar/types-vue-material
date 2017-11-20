@@ -1,0 +1,10 @@
+{
+  "name": "@types/vue-material",
+  "version": "1.0.0",
+  "description": "TypeScript definition for vue-material",
+  "dependencies": {
+    "vue": "*"
+  },
+  "repository": "https://github.com/stijnwop/types-vue-material",
+  "license": "MIT"
+}
