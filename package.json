@@ -5,6 +5,6 @@
   "dependencies": {
     "vue": "*"
   },
-  "repository": "https://github.com/stijnwop/types-vue-material",
+  "type": "module",
   "license": "MIT"
 }
