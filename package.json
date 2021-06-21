@@ -1,5 +1,5 @@
 {
-  "name": "@types/vue-material",
+  "name": "@lyssar/vue-material-types",
   "version": "1.0.0",
   "description": "TypeScript definition for vue-material",
   "dependencies": {
